@@ -1,0 +1,4 @@
+com/example/journal/controller/JournalController.class
+com/example/journal/repository/JournalRepository.class
+com/example/journal/model/JournalEntry.class
+com/example/journal/JournalApplication.class
